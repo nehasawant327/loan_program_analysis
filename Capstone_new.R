@@ -1,4 +1,4 @@
-setwd("D:\\study\\Capstone")
+setwd("D:\\study\\loan_program_analysis")
 
 library(caTools)
 library(car)
